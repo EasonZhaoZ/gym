@@ -1,0 +1,3 @@
+model_checkpoint_path: "/Users/zhaoyinzy/github/gym/tensorflow/mnist/checkpoint-1999"
+all_model_checkpoint_paths: "/Users/zhaoyinzy/github/gym/tensorflow/mnist/checkpoint-999"
+all_model_checkpoint_paths: "/Users/zhaoyinzy/github/gym/tensorflow/mnist/checkpoint-1999"
